@@ -5,7 +5,7 @@ Based on https://github.com/noffle/twitter-kv.
 
 ## install
 
-npm install -g
+npm install -g kvit
 
 
 ## usage
