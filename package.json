@@ -1,0 +1,30 @@
+{
+  "name": "kvit",
+  "version": "0.0.1",
+  "description": "Key-value store CLI based on twitter-kv",
+  "bin": "./bin/kvit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kr1sp1n/kvit.git"
+  },
+  "keywords": [
+    "twitter",
+    "key-value",
+    "ha",
+    "cli",
+    "store"
+  ],
+  "author": "kr1sp1n <krispin@posteo.de> (http://kr1sp1n.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kr1sp1n/kvit/issues"
+  },
+  "homepage": "https://github.com/kr1sp1n/kvit#readme",
+  "dependencies": {
+    "operetta": "0.0.5",
+    "twitter-kv": "0.0.3"
+  }
+}
